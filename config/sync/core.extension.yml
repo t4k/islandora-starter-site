@@ -47,6 +47,7 @@ module:
   filehash: 0
   filter: 0
   flysystem: 0
+  flysystem_s3: 0
   fpa: 0
   geolocation: 0
   hal: 0
@@ -109,7 +110,6 @@ module:
   text: 0
   token: 0
   toolbar: 0
-  tour: 0
   twig_tweak: 0
   update: 0
   user: 0
